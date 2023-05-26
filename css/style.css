@@ -135,6 +135,8 @@
     height: 56px;
     border: none;
     border-radius: 4px; 
+    display: block; 
+    margin: auto;
 }
 
 .btn-style:focus,
