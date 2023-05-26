@@ -170,6 +170,7 @@
 
 .hero-item-list {
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4)
 }
 
 .section-style-hero{
@@ -189,8 +190,7 @@
     overflow: hidden;
 }
 
-.hero-item-lists{gap: 24px;
-width: calc(width: calc((100% - 72px) / 4));}
+.hero-item-lists{gap: 24px;}
 
 /* GOAL LIST */
 
