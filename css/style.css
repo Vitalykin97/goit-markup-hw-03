@@ -52,6 +52,13 @@
     color: #2E2F42;
 }
 
+.nav-list{
+    gap: 40px;
+    padding: 24px 0;
+}
+
+
+
 .contact-link {
     font-family: 'Roboto';
     font-style: normal;
@@ -68,12 +75,6 @@
 .nav-link:hover,
 .nav-link:focus {
     color: var(--color-primary);
-}
-
-.nav-item {
-    padding: 24px 0;
-    margin-right: 40px;
-    margin-right: 0;
 }
 
 :root {
