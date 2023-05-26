@@ -70,12 +70,16 @@
     color: var(--color-primary);
 }
 
-.nav-link{
-    gap: 40px;}
+.nav-item {
+    padding: 24px 0;
+    margin-right: 40px
+}
 
-    .nav-item{
-        padding: 24px 0;
-    }
+.nav-items{
+    padding: 24px 0;
+    margin-right: 0;
+
+}
 
 :root {
     --color-primary: #404bbf;
