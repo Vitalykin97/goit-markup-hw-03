@@ -331,3 +331,8 @@ display: block;
     padding: 0 15px; 
     margin: 0 auto;
 }
+
+.list{
+    display: flex;
+    align-items: center;
+}
