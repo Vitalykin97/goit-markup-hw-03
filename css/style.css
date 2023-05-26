@@ -327,4 +327,6 @@ display: block;
 
 .header-item-container {
     display: flex;
+    width: 1158px;
+    padding: 0 15px; 
 }
