@@ -78,6 +78,11 @@
     color: var(--color-primary);
 }
 
+.address-list{
+    display: flex;
+    gap: 40px;
+}
+
 :root {
     --color-primary: #404bbf;
 }
