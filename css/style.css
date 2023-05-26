@@ -114,10 +114,6 @@
     background-color: #2e2f42;
 }
 
-
-/* TEXT TOP */
-
-:root
 /* BUTTON */
 
 .btn-style {
@@ -192,6 +188,8 @@
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+.hero-item-lists{gap: 24px; }
 
 /* GOAL LIST */
 
