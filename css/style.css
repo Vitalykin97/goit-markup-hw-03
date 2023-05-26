@@ -50,11 +50,11 @@
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    padding: 24px 0;
 }
 
 .nav-list{
     gap: 40px;
-    padding: 24px 0;
 }
 
 
