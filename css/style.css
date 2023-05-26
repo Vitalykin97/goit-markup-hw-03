@@ -358,11 +358,13 @@ display: block;
 /* HEADER */
 
 .header-style {
-    border-bottom: 1px solid #e7e9fc; 
-    display: flex; 
-}
+    border-bottom: 1px solid #e7e9fc; }
 
-.container{
+.header-styles{
+    display: flex; 
+}    
+
+.container {
     width: 1158px;
     padding: 0 15px; 
     margin: 0 auto;
