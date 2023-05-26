@@ -76,6 +76,7 @@
 .address-style{
     display: flex;
     gap: 40px;
+    margin-left: auto;
 }
 
 
