@@ -16,6 +16,8 @@
 
 .list {
     list-style: none;
+    margin: 0; 
+    padding: 0;
 }
 
 .footer-list-syle {
@@ -71,10 +73,11 @@
 
 }
 
-.address-style{
+.adress-style{
     display: flex;
     gap: 40px;
 }
+
 
 
 .contact-link:hover,
