@@ -76,9 +76,11 @@
 .address-style{
     display: flex;
     gap: 40px;
-    margin-left: auto;
 }
 
+.address-list {
+    margin-left: auto;
+}
 
 
 .contact-link:hover,
