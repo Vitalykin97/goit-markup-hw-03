@@ -203,10 +203,16 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    margin-bottom: 72px; 
 }
 
 .goal-item-list {
     background-color: #FFFFFF;
+}
+
+.list-goal{
+    display: flex;
+    gap: 24px;
 }
 
 .goal-style{
