@@ -211,7 +211,9 @@
 }
 
 .list-goal{
+    display: flex; 
     gap: 24px;
+    width: calc((100% - 48px) / 3);
 }
 
 .goal-style{
