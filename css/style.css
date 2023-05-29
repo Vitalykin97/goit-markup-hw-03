@@ -267,10 +267,10 @@
     border-radius: 0px 0px 4px 4px;
 }
 
-.team{ padding: 120px 0
-    display: flex;}
+.team{ padding: 120px 0;}
 
-.ul-list{gap: 24px;}
+.ul-list{gap: 24px;
+    display: flex;}
 
 /* FUTER PORFOLIO */
 
