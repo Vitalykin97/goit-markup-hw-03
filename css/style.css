@@ -264,12 +264,12 @@
 
 .team-item-list {
     background-color: #FFFFFF;
-    gap: 24px;
     border-radius: 0px 0px 4px 4px;
 }
 
 .team{ padding: 120px 0}
 
+.ul-list{gap: 24px;}
 
 /* FUTER PORFOLIO */
 
