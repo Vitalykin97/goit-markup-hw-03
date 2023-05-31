@@ -320,7 +320,6 @@
 
 .logo-color-list {
     background-color: #2e2f42;
-    padding: 100px 0;
 }
 
 .footer-item {
@@ -389,6 +388,8 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.main-logo {border-bottom: 1px solid #e7e9fc}
 
 /* IMAGE */
 img {
