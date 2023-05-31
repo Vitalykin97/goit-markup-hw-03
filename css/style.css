@@ -41,7 +41,6 @@
 .address-list {
     font-style: normal;
     color: #434455;
-    gap: 40px;
 }
 
 /* CONTACTS */
@@ -81,6 +80,7 @@
 
 .address-list {
     margin-left: auto;
+    gap: 40px;
 }
 
 
