@@ -251,6 +251,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .team-post {
@@ -260,7 +261,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-bottom: 8px;
+
 }
 
 .team-item-list {
