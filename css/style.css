@@ -395,7 +395,8 @@
 .main-logo {border-bottom: 1px solid #e7e9fc}
 
 .container-portfolio{display: flex;
-    width: 1158px;}
+    width: 1158px;
+    padding: 0 15px;}
 
 /* IMAGE */
 img {
