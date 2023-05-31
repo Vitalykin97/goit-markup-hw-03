@@ -55,6 +55,12 @@
     padding: 24px 0;
 }
 
+.nav-list{
+    display: flex;
+    gap: 40px;
+}
+
+
 
 .contact-link {
     font-family: 'Roboto';
