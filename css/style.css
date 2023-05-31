@@ -355,6 +355,11 @@
     list-style: none;
 }
 
+.section-style-portfolio {padding-top: 96px; 
+    padding-bottom: 120px;}
+
+    
+
 /* Button Portfolio */
 
 .button-all {
