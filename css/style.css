@@ -398,6 +398,11 @@
 
 .main-logo {border-bottom: 1px solid #e7e9fc}
 
+.section-style-portfolio{
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 72px}
+
 
 /* IMAGE */
 img {
