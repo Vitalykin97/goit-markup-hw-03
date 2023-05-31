@@ -371,10 +371,16 @@
     background-color: #F4F4FD;
 }
 
+.button-all{padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px; 
+}
+
 .button-all:hover,
 .button-all:focus {
     background: var(--background-button);
     color: var(--color-button);
+    border: 1px solid transparent;
 }
 
 .link {
