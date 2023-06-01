@@ -281,8 +281,7 @@ flex-grow: 0;
 .team{padding: 120px 0;}
 
 .ul-list{gap: 24px;
-    display: flex;
-    margin-bottom: 8px;}
+    display: flex;}
 
 .team-name{padding: 32px 16px; 
     text-align: center;
