@@ -316,6 +316,7 @@ flex-grow: 0;
 /* HEADER LOGO */
 .style-logos-logo {
     color: #2E2F42;
+
 }
 
 /* FOTER LOGO */
@@ -336,6 +337,8 @@ flex-grow: 0;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
+    margin: 0;
+    width: 264px;
 }
 
 /* HEADER LOGO  */
@@ -349,22 +352,13 @@ flex-grow: 0;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-right: 76px;
-    display: inline-block;
-    margin-bottom: 16px; 
-    margin: 0 auto;
 }
 
-.logo-link-footer {
-     font-family: 'Raleway', sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    margin-right: 76px;
+.logo-hedaer{
+    margin-right: 76px
+}
+
+.logo-footer {
     display: inline-block;
     margin-bottom: 16px; 
 }
