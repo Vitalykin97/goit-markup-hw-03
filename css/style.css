@@ -168,10 +168,8 @@ flex-grow: 0;
 }
 
 .hero-item {
-    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
     margin: auto;
