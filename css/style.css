@@ -54,7 +54,9 @@
     color: #2E2F42;
     padding: 24px 0;
     display: block;
-    margin: auto;
+    margin: auto;flex: none;
+order: 1;
+flex-grow: 0;
 }
 
 .nav-list{
@@ -349,6 +351,7 @@
     margin-right: 76px;
     display: inline-block;
     margin-bottom: 16px; 
+    margin: auto;
 }
 
 /* Portfolio */
