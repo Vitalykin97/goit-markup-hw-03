@@ -53,6 +53,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
     padding: 24px 0;
+    display: block;
 }
 
 .nav-list{
