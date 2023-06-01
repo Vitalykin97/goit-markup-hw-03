@@ -357,6 +357,11 @@ flex-grow: 0;
     margin: 0 auto;
 }
 
+.logo-link-footer {
+    display: inline-block;
+    margin-bottom: 16px; 
+}
+
 /* Portfolio */
 
 .list {
