@@ -4,6 +4,9 @@
     --background-button: #404BBF;
 }
 
+h1...h6{margin: 0;}
+ul {margin: 0;}
+
 .body-fonts {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -159,7 +162,6 @@ flex-grow: 0;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
