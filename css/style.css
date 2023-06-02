@@ -117,6 +117,7 @@ flex-grow: 0;
     color: #FFFFFF;
     max-width: 496px;
     margin: auto;
+    margin-bottom: 64px;
 }
 
 .section-style {
