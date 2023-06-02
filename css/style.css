@@ -116,8 +116,7 @@ flex-grow: 0;
     letter-spacing: 0.02em;
     color: #FFFFFF;
     max-width: 496px;
-    margin-left: auto;
-    margin-top: 64px;
+    margin: auto;
 }
 
 .section-style {
