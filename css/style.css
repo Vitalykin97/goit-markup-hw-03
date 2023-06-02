@@ -117,7 +117,7 @@ flex-grow: 0;
     color: #FFFFFF;
     max-width: 496px;
     margin-left: auto;
-    margin-right: auto;
+    margin-top: 64px;
 }
 
 .section-style {
@@ -135,8 +135,7 @@ flex-grow: 0;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
-    cursor: pointer;
-    margin-top: 64px;
+    cursor: pointer
 }
 
 .btn-style {
