@@ -136,6 +136,7 @@ flex-grow: 0;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
+    margin-top: 64px;
 }
 
 .btn-style {
